@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+
+    <string name="activity_a">Activity A</string>
+    <string name="activity_b">Activity B</string>
+    <string name="activity_dialog">Simple Dialog</string>
+
+    <string name="start_b_label_btn">Start Activity B</string>
+    <string name="start_dialog_label_btn">Start Dialog</string>
+    <string name="close_app_label_btn">Close App</string>
+    <string name="finish_b_label_btn">Finish B</string>
+    <string name="close_dialog_label_btn">Close</string>
+
+    <string name="text_activity_b">Activity B occupies the complete window real-estate. The Android OS forces Activity A to be Paused. However, the background thread keep incrementing the counter...</string>
+
+    <string name="thread_count_title">Thread Count</string>
+</resources>
+
+
